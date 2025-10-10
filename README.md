@@ -20,12 +20,6 @@ Also familiar with: HTML/CSS 🎨, JavaScript
 
 ---
 
-### 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaxriyorIsmatov&layout=compact&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShaxriyorIsmatov&show_icons=true&theme=tokyonight)
-
----
-
 ### 📫 Contact me
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/@ismatov_shahriyor)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaxriyorismatov2007@gmail.com)
