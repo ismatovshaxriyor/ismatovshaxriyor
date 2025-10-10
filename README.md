@@ -20,6 +20,15 @@ Also familiar with: HTML/CSS 🎨, JavaScript
 
 ---
 
+### 📊 GitHub Overview
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ismatovshaxriyor&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=ismatovshaxriyor&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+---
+
 ### 📫 Contact me
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/@ismatov_shahriyor)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaxriyorismatov2007@gmail.com)
