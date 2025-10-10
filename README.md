@@ -16,7 +16,7 @@ I enjoy creating clean, purposeful code and experimenting with new technologies.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
-Also familiar with: Java ☕, C++, HTML/CSS 🎨
+Also familiar with: HTML/CSS 🎨, JavaScript
 
 ---
 
@@ -27,14 +27,9 @@ Also familiar with: Java ☕, C++, HTML/CSS 🎨
 ---
 
 ### 📫 Contact me
-[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/YOUR_USERNAME)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/@ismatov_shahriyor)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaxriyorismatov2007@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/shaxriyor-ismatov-4b59752a9)
 
 ---
 
-### ☕ Support My Work
-[![Boosty](https://img.shields.io/badge/Boosty-orange?style=for-the-badge)](https://boosty.to/YOUR_PAGE)
-
-> *"Nobody knows how to build really complicated hardware systems, so designing hardware tends to be simpler. Software is much more complicated."*  
-> — Butler Lampson
