@@ -9,7 +9,7 @@ I enjoy creating clean, purposeful code and experimenting with new technologies.
 ---
 
 # 💫 About Me:
-👨‍💻 I'm currently working on:<br>Telegram bots (Python, async), Django & Flutter based projects<br><br>🤝 I'm looking to collaborate on:<br>Open-source projects, Telegram bots, backend APIs<br><br>🆘 I'm looking for help with:<br>System design, scalable backend, CI/CD best practices<br><br>🌱 I'm currently learning:<br>Backend development, DevOps basics, Flutter UI/UX<br><br>💬 Ask me about:<br>Python, Telegram bots, Django, APIs, FastAPI<br><br>⚡ Fun fact:<br>I enjoy solving logic problems and building automation tools<br>
+👨‍💻 I'm currently working on:<br>Telegram bots (Python, async), Django based projects<br><br>🤝 I'm looking to collaborate on:<br>Open-source projects, Telegram bots, backend APIs<br><br>🆘 I'm looking for help with:<br>System design, scalable backend, CI/CD best practices<br><br>🌱 I'm currently learning:<br>Backend development, DevOps basics<br><br>💬 Ask me about:<br>Python, Telegram bots, Django, APIs, FastAPI<br><br>⚡ Fun fact:<br>I enjoy solving logic problems and building automation tools<br>
 
 
 ## 🌐 Socials:
