@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">👨‍💻 Working on Telegram bots (Python, async) and Django projects
-🤝 Open to collaborating on open-source, Telegram bots, and backend APIs
-🆘 Looking for help with system design, scalable backend, and CI/CD
-🌱 Learning backend development and DevOps basics
-💬 Ask me about Python, Telegram bots, Django, APIs, FastAPI
+<p align="left">👨‍💻 Working on Telegram bots (Python, async) and Django projects<br>
+🤝 Open to collaborating on open-source, Telegram bots, and backend APIs<br>
+🆘 Looking for help with system design, scalable backend, and CI/CD<br>
+🌱 Learning backend development and DevOps basics<br>
+💬 Ask me about Python, Telegram bots, Django, APIs, FastAPI<br>
 ⚡ Fun fact: I enjoy solving logic problems and building automation tools</p><br>
 
 ###
