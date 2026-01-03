@@ -81,14 +81,14 @@
 ###
 
 <div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ismatovshaxriyor/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@@ismatovshaxriyor/0" alt="Medium post 1"  />
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/ismatovshaxriyor/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/ismatovshaxriyor/0" alt="Medium post 1"  />
   </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ismatovshaxriyor/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@@ismatovshaxriyor/1" alt="Medium post 2"  />
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/ismatovshaxriyor/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/ismatovshaxriyor/1" alt="Medium post 2"  />
   </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ismatovshaxriyor/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@@ismatovshaxriyor/2" alt="Medium post 3"  />
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/ismatovshaxriyor/2">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/ismatovshaxriyor/2" alt="Medium post 3"  />
   </a>
 </div>
 
