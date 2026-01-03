@@ -81,33 +81,18 @@
 ###
 
 <div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/ismatovshaxriyor/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/ismatovshaxriyor/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/ismatovshaxriyor/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/ismatovshaxriyor/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/ismatovshaxriyor/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/ismatovshaxriyor/2" alt="Medium post 3"  />
-  </a>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ismatovshaxriyor&show_icons=true&theme=dracula" />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ismatovshaxriyor.ismatovshaxriyor&"  />
-</div>
-
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ismatovshaxriyor&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ismatovshaxriyor&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
 ###
 
 <div align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ismatovshaxriyor&layout=compact&theme=tokyonight" />
+
 </div>
 
 ###
