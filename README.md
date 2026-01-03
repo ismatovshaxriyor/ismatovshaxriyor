@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">I'm Shaxriyor Ismatov,<br>a passionate developer exploring Python 🐍, Django 🌐, and Telegram Bot development 🤖.<br>I enjoy creating clean, purposeful code and experimenting with new technologies.</h4>
+<h4 align="left">I'm Shaxriyor Ismatov,<br>a passionate developer exploring Python 🐍, Django 🌐, and Telegram Bot development 🤖.<br>I enjoy creating clean, purposeful code and experimenting with new technologies.</h4><br>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👨‍💻 I'm currently working on:<br>Telegram bots (Python, async), Django based projects<br><br>🤝 I'm looking to collaborate on:<br>Open-source projects, Telegram bots, backend APIs<br><br>🆘 I'm looking for help with:<br>System design, scalable backend, CI/CD best practices<br><br>🌱 I'm currently learning:<br>Backend development, DevOps basics<br><br>💬 Ask me about:<br>Python, Telegram bots, Django, APIs, FastAPI<br><br>⚡ Fun fact:<br>I enjoy solving logic problems and building automation tools</p>
+<p align="left">👨‍💻 I'm currently working on:<br>Telegram bots (Python, async), Django based projects<br><br>🤝 I'm looking to collaborate on:<br>Open-source projects, Telegram bots, backend APIs<br><br>🆘 I'm looking for help with:<br>System design, scalable backend, CI/CD best practices<br><br>🌱 I'm currently learning:<br>Backend development, DevOps basics<br><br>💬 Ask me about:<br>Python, Telegram bots, Django, APIs, FastAPI<br><br>⚡ Fun fact:<br>I enjoy solving logic problems and building automation tools</p><br>
 
 ###
 
@@ -68,31 +68,43 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="40" alt="pytest logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-</div>
+</div><br>
+
+<h2 align="center">Contact with me☎️</h2>
+<div align="center">
+  <a href="https://t.me/ismatov_shaxriyor" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+  <a href="https://www.instagram.com/ismatov_shaxriyor/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://linkedin.com/in/www.linkedin.com/in/shaxriyor-ismatov-4b59752a9" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="shaxriyorismatov2007@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div><br>
 
 ###
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ismatovshaxriyor/ismatovshaxriyor/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ismatovshaxriyor/ismatovshaxriyor/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ismatovshaxriyor/ismatovshaxriyor/output/pacman-contribution-graph.svg">
-</picture>
+</picture><br>
 
-###
-
-<div align="center" style="width: 100%">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ismatovshaxriyor&show_icons=true&theme=dracula" />
-</div>
-
-###
-
-###
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ismatovshaxriyor&layout=compact&theme=tokyonight" />
-
+  <img src="https://github-profile-trophy.vercel.app?username=ismatovshaxriyor&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ismatovshaxriyor&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
+###
+
+
 
 ###
